@@ -1,0 +1,23 @@
+.nav {
+  display: flex;
+  align-items: center;
+  background-color: #21222a;
+  height: 90px;
+  padding: 30px 25px;
+}
+.nav-logo {
+  height: 30px;
+  margin-right: 7px;
+}
+.nav-logo-title {
+  display: flex;
+  margin-right: auto;
+  align-items: center;
+  color: skyblue;
+  font-weight: 700;
+  font-size: 22px;
+}
+.nav-title {
+  color: #deebf8;
+  font-weight: 600;
+}

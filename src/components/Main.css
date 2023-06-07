@@ -1,0 +1,28 @@
+.main {
+  height: 100%;
+  padding: 57px 27px;
+  color: white;
+  background-image: url(../images/image.png);
+  background-repeat: no-repeat;
+  background-position: right 75%;
+}
+.main-title {
+  margin: 0;
+  font-size: 39px;
+  letter-spacing: -0.05em;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 39.06px;
+  line-height: 47px;
+}
+.main-list {
+  margin-top: 46px;
+}
+.main-list > li {
+  line-height: 19px;
+  padding-block: 10px;
+}
+ul li::marker {
+  color: #61dafb;
+  font-size: 1.4em;
+}
